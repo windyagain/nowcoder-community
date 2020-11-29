@@ -1,0 +1,4 @@
+2020-11-28 19:35:57.550 [main] DEBUG com.pan.community.LoggerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-28 19:36:04.357 [main] DEBUG com.pan.community.LoggerTests - debug log
+2020-11-28 19:42:53.166 [main] DEBUG com.pan.community.LoggerTests - Running with Spring Boot v2.4.0, Spring v5.3.1
+2020-11-28 19:42:58.966 [main] DEBUG com.pan.community.LoggerTests - debug log

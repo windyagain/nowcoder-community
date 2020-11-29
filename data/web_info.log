@@ -1,0 +1,14 @@
+2020-11-28 19:35:57.547 [main] INFO  com.pan.community.LoggerTests - Starting LoggerTests using Java 1.8.0_73 on ICOS-20180719VK with PID 9460 (started by Administrator in I:\JavaWork202011\community)
+2020-11-28 19:35:57.554 [main] INFO  com.pan.community.LoggerTests - No active profile set, falling back to default profiles: default
+2020-11-28 19:36:02.577 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-28 19:36:03.236 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-11-28 19:36:03.914 [main] INFO  com.pan.community.LoggerTests - Started LoggerTests in 8.294 seconds (JVM running for 13.108)
+2020-11-28 19:36:04.358 [main] INFO  com.pan.community.LoggerTests - info log
+2020-11-28 19:36:04.387 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-28 19:42:53.162 [main] INFO  com.pan.community.LoggerTests - Starting LoggerTests using Java 1.8.0_73 on ICOS-20180719VK with PID 9240 (started by Administrator in I:\JavaWork202011\community)
+2020-11-28 19:42:53.174 [main] INFO  com.pan.community.LoggerTests - No active profile set, falling back to default profiles: default
+2020-11-28 19:42:57.262 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-28 19:42:57.686 [main] INFO  o.s.b.a.web.servlet.WelcomePageHandlerMapping - Adding welcome page template: index
+2020-11-28 19:42:58.449 [main] INFO  com.pan.community.LoggerTests - Started LoggerTests in 6.893 seconds (JVM running for 11.645)
+2020-11-28 19:42:58.967 [main] INFO  com.pan.community.LoggerTests - info log
+2020-11-28 19:42:59.009 [SpringContextShutdownHook] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
